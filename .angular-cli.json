@@ -53,5 +53,7 @@
   "defaults": {
     "styleExt": "css",
     "component": {}
-  }
+  },
+  "styles": ["../node_modules/material-design-lite/material.min.css"],
+  "scripts": ["../node_modules/material-design-lite/material.min.js"]
 }
